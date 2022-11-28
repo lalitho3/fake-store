@@ -10,7 +10,7 @@ export default function Nosotros() {
             </div>
             <div className="w-1/2">
                 <h2 className="text-2xl font-bold text-blue-500 text-center">¿Quienes somos?</h2>
-                <p className="text-lg font-bold text-gray-600 py-5 text-center">Somos una empresa dedicada a la venta de productos de tecnología, con más de 10 años de experiencia en el mercado.</p>
+                <p className="text-lg font-bold text-gray-600 py-5 text-center">Somos una empresa dedicada a la venta de productos de tecnología, con más de 10 años de experiencia en el mercado y muchos clientes satisfechos.</p>
             </div>
         </div>
 
