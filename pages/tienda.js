@@ -1,7 +1,7 @@
 import BaseLayout from "../components/BaseLayout"
 import ProductsCard from "../components/ProductsCard"
 
-export default function tienda({productos}) {
+export default function Tienda({productos}) {
   return (
     <BaseLayout titulo={'Fake store | Tienda'}
     descripcion={'Esta es la tienda oficial de Fake Store, puedes consultar terminos y condiciones en la página oficial'}>

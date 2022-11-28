@@ -2,7 +2,7 @@ import { useState } from "react"
 
 import BaseLayout from "../../components/BaseLayout"
 
-export default function singleProduct({producto, agregarCarrito}) {
+export default function SingleProduct({producto, agregarCarrito}) {
 
     const [cantidad, setCantidad] = useState(1)
 

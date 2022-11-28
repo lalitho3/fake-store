@@ -1,6 +1,6 @@
 import BaseLayout from "../components/BaseLayout"
 
-export default function nosotros() {
+export default function Nosotros() {
   return (
     <BaseLayout titulo={'Fake store | Sobre nosotros'}>
         <h1 className="text-6xl font-bold text-gray-600 py-10 text-center">Sobre nosotros</h1>

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import BaseLayout from "../components/BaseLayout";
 
-export default function carrito({carrito, eliminarProducto}) {
+export default function Carrito({carrito, eliminarProducto}) {
 
     const [total, setTotal] = useState(0);
 
